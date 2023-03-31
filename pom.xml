@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.metadatacenter</groupId>
+  <artifactId>cedar-libraries</artifactId>
+  <version>2.6.24-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>CEDAR Clients</name>
+  <description>Build all CEDAR libraries</description>
+
+  <scm>
+    <connection>scm:git:https://github.com/metadatacenter/cedar-libraries.git</connection>
+    <developerConnection>scm:git:https://github.com/metadatacenter/cedar-libraries.git</developerConnection>
+    <url>https://github.com/metadatacenter/cedar-libraries</url>
+  </scm>
+
+  <modules>
+    <module>../cedar-model-validation-library</module>
+  </modules>
+
+</project>
