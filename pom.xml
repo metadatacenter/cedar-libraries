@@ -7,7 +7,7 @@
   <version>2.6.24-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>CEDAR Clients</name>
+  <name>CEDAR Libraries</name>
   <description>Build all CEDAR libraries</description>
 
   <scm>
@@ -17,6 +17,8 @@
   </scm>
 
   <modules>
+    <module>../cedar-library</module>
+    <module>../cedar-artifact-library</module>
     <module>../cedar-model-library</module>
     <module>../cedar-model-validation-library</module>
     <module>../cedar-rest-library</module>
