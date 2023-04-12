@@ -17,8 +17,9 @@
   </scm>
 
   <modules>
-    <module>../cedar-library</module>
     <module>../cedar-artifact-library</module>
+    <module>../cedar-config-library</module>
+    <module>../cedar-core-library</module>
     <module>../cedar-model-library</module>
     <module>../cedar-model-validation-library</module>
     <module>../cedar-rest-library</module>
