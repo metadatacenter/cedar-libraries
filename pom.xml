@@ -28,7 +28,6 @@
     <module>../cedar-core-library</module>
     <module>../cedar-model-library</module>
     <module>../cedar-model-validation-library</module>
-    <module>../cedar-rest-library</module>
   </modules>
 
 </project>
