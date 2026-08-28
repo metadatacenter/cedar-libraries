@@ -5,12 +5,12 @@
   <parent>
     <groupId>org.metadatacenter</groupId>
     <artifactId>cedar-parent</artifactId>
-    <version>2.9.2</version>
+    <version>2.9.3</version>
   </parent>
 
   <groupId>org.metadatacenter</groupId>
   <artifactId>cedar-libraries</artifactId>
-  <version>2.9.2</version>
+  <version>2.9.3</version>
   <packaging>pom</packaging>
 
   <name>CEDAR Libraries</name>
@@ -28,7 +28,6 @@
     <module>../cedar-core-library</module>
     <module>../cedar-model-library</module>
     <module>../cedar-model-validation-library</module>
-    <module>../cedar-rest-library</module>
   </modules>
 
 </project>
